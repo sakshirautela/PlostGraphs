@@ -2,5 +2,4 @@ numpy==1.23.5
 pandas==1.5.3
 streamlit==1.36.0
 altair==5.3.0
-plotly.express==5.23.0
-plotly.figure_factory==5.23.0
+plotly==5.23.0
